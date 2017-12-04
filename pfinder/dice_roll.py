@@ -38,5 +38,3 @@ def print_slow(mystr):
 		print(letter,end='')
 		time.sleep(.05)
 
-def decoy():
-	pass
